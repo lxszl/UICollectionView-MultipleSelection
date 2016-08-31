@@ -1,1 +1,2 @@
 # UICollectionView-MultipleSelection
+UICollectionView多选高亮效果
